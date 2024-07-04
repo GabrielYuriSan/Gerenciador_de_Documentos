@@ -1,0 +1,32 @@
+body {
+    background-color: #343a40;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  .btn-outline-secondary {
+    color: white;
+    border-color: white;
+  }
+  
+  .btn-outline-secondary:hover {
+    background-color: white;
+    color: #343a40;
+  }
+  
+  .input-group-text {
+    color: #343a40;
+    background-color: white;
+  }
+  
